@@ -1,0 +1,34 @@
+{
+    "HEADER": {
+        "CATEGORIESDROPDOWN": "Categorieën",
+        "DEALSTITLE": "Promoties",
+        "SIGNIN": "Log in: ",
+        "EMAIL": "Email adres:",
+        "PASSWORD": "Wachtwoord: ",
+        "LOGINBTN": "Inloggen",
+        "NOTAUSERTEXT": "Nog geen klant?",
+        "REGISTERBTN": "Registreer",
+        "FORGETPASSWORD": "Wachtwoord vergeten?",
+        "WELCOME": "Welkom",
+        "ACCOUNTPAGE": "Bekijk uw ",
+        "ACCOUNTPAGEBTN": "account pagina",
+        "LOGOUTBTN": "Uitloggen",
+        "CONTACT": "Contact",
+        "SEARCH": "Zoeken"
+    },
+
+    "HOMEPAGE": {
+        "JUMBOTEXT": "Welkom op RoTech webshop",
+        "JUMBOTAGLINE": "Waar je 's werelds fijnste shizzle kan vinden"
+    },
+
+    "HEADERCART": {
+        "TITLE": "Uw winkelkar",
+        "TOTAL": "Totaal",
+        "CHECKOUT": "Bestellen"
+    },
+
+    "PRODUCTLIST": {
+        "CTO": "Toevoegen aan winkelkar"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "HEADER": {
+        "CATEGORIESDROPDOWN": "Categories",
+        "DEALSTITLE": "Deals",
+        "SIGNIN": "Sign in: ",
+        "EMAIL": "Email address:",
+        "PASSWORD": "Password: ",
+        "LOGINBTN": "Login",
+        "NOTAUSERTEXT": "Not a user yet?",
+        "REGISTERBTN": "Register here",
+        "FORGETPASSWORD": "Forgot password?",
+        "WELCOME": "Welcome",
+        "ACCOUNTPAGE": "See your ",
+        "ACCOUNTPAGEBTN": "Account page",
+        "LOGOUTBTN": "Logout",
+        "CONTACT": "Contact",
+        "SEARCH": "Search"
+    },
+    "HOMEPAGE": {
+        "JUMBOTEXT": "Welcome to RoTech webshop",
+        "JUMBOTAGLINE": "Where you can find world's finest shizzle"
+    },
+    "HEADERCART": {
+        "TITLE": "Your cart",
+        "TOTAL": "Total",
+        "CHECKOUT": "Check out"
+    },
+
+    "PRODUCTLIST": {
+        "CTO": "Add to cart"
+    },
+
+    "CONTACT": {
+        "TITLE": "Enter your information and question: "
+    }
+}
